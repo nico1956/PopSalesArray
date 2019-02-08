@@ -1,0 +1,34 @@
+DATE: 02/07/2019                                    ALBIA SOCCER CLUB FUNDRAISER                                            PAGE:  1
+JAVANB06                                                BUSATTO'S  DIVISION                                                         
+                                                            ERROR REPORT                                                            
+
+ERROR RECORD                                                            ERROR DESCRIPTION                                            
+
+               Max            7807 Linden StrChula VistMI5664181170589D Last name is required.                                      
+
+Shaffer                       3971 East AvenuGalesburg IL6461748800384C First name is required.                                     
+
+Jacobs         Blake                         Coronado  MI5329553810210B Address is required.                                        
+
+Mueller        Leonidas       0424 Garden Str          IL3885362200568A City is required.                                           
+
+Larson                        5832 WashingtonKey West  NE7198511220320E First name is required.                                     
+
+               Moises         4530 Garfield ANapa      NE6182951270160C Last name is required.                                      
+
+Gibson         Levi           2497 Hillcrest Tuskegee  CA7904889620263D Only IA, IL, MI, MO, NE, WI allowed.                        
+
+Reynolds       Theodore       5421 Cambridge Americus  IA7441A28100293D Zip code can only be a numeric value.                       
+
+Hodges         Brian          2748 Elm StreetCulver CitIA1719821230200A Case quantity must be at least 1.                           
+
+Pope           Isaac          0992 Myrtle StrAndersonviMO1719821239903C Pop type must be a number between 01 and 06.                
+
+Allison        Noel           5238 Park AvenuGary      WI223996215034AE Case quantity must be a numeric value.                      
+
+Baker          Muhammad       4712 Jones StreConnersvilMI6203765370400B Case quantity must be at least 1.                           
+
+Day            Raiden         6550 Rose StreeBridgeportMO4496217350134N The team can only be A, B, C, D, E.                         
+
+
+TOTAL ERRORS    13                                                                                                                 
